@@ -1,28 +1,64 @@
-<h1 align="center">Hi 👋, I'm Yahool</h1>
-<h3 align="center">A passionate full stack developer and data analyst from India</h3>
-<img align="center" alt="coding"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
+<h1 align="center">👋 Hey there, I'm Yahool</h1>
+<h3 align="center">Data Analyst | Full Stack Developer | Tech Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peruyahool&label=Profile%20views&color=0e75b6&style=flat" alt="peruyahool" /> </p>
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peruyahool" alt="peruyahool" /></a> </p>
+---
 
-- 🔭 I’m currently working on **data analysis**
+### 💡 About Me  
+- 🎓 B.Tech in **Computer Science (Big Data Analytics)** from **SRM University**  
+- 💼 **1-year IT experience** at **TCS** with hands-on exposure to Data & Business Analysis  
+- 🧠 Completed multiple certifications in **AI, ML, and Business Analytics**  
+- 💻 Passionate about turning **raw data into business insights**  
+- ⚙️ Strong in **problem-solving, visualization, and dashboard creation**
 
-- 🌱 I’m currently learning **java, golang**
+---
 
-- 👯 I’m looking to collaborate on **data science and data mining**
+### 🚀 Technical Proficiency
 
-- 🤝 I’m looking for help with **artifical intelligence and machine learning**
+| Skill / Tool | Level | Progress |
+|:-------------:|:------:|:---------:|
+| **Python** | Expert 🧠 | ██████████ 100% |
+| **SQL** | Expert 🧩 | ██████████ 100% |
+| **Power BI / Tableau** | Advanced 📊 | █████████░ 90% |
+| **Excel (Data Cleaning / Analysis)** | Advanced 📈 | ████████░░ 80% |
+| **Django (Full Stack)** | Intermediate 💻 | ██████░░░░ 60% |
+| **HTML / CSS / JS** | Intermediate 🌐 | ███████░░░ 70% |
+| **AWS (S3, Redshift, Glue)** | Beginner ☁️ | ████░░░░░░ 40% |
 
-- 👨‍💻 All of my projects are available at [https://github.com/peruyahool?tab=repositories](https://github.com/peruyahool?tab=repositories)
+---
 
-- 💬 Ask me about **anything that comes to your mind**
+### 🧱 Experience Snapshot
+- **Full Stack Developer Intern – SIMS Hospital**  
+  → Built a medical record web app using **Django**, **HTML/CSS**, and **SQLite**  
+  → Worked on backend APIs, form handling, and UI optimization  
+  → Gained real-world experience in **app deployment and client interaction**
 
-- 📫 How to reach me **Peruyahool@gmail.com**
+- **IT Analyst – TCS (Current)**  
+  → Worked with **data migration**, **data analysis**, and **support operations**  
+  → Improved reporting efficiency using **Power BI dashboards**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1syDVXWQFHZkplCmaBTh6W0cyYnQSiMXY/view?usp=sharing](https://drive.google.com/file/d/1syDVXWQFHZkplCmaBTh6W0cyYnQSiMXY/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I can work with codes and modification all day all night work with me to earn more coding stuffs**
+### 🕒 Project Timeline  
+
+| Year | Project Title | Description |
+|:----:|:--------------|:-------------|
+| **2021** | **COVID Data Dashboard** | Built an interactive dashboard using Power BI and Python to analyze global COVID trends. |
+| **2022** | **Customer Segmentation (ML)** | Applied K-Means clustering for customer grouping based on purchasing patterns. |
+| **2023** | **Big Data Pipeline (Hadoop + Spark)** | Created ETL pipeline for handling large datasets using PySpark. |
+| **2024** | **Healthcare Record Management (Django)** | Developed hospital management system during internship at SIMS. |
+| **2025** | **Business Insight Dashboard** | Designed Power BI dashboards for decision-making using sales and finance data. |
+
+---
+
+### ⚡ Fun Fact  
+I treat learning like leveling up — every new skill = +1 XP 🎮  
+Currently grinding on: **Advanced Power BI | Data Storytelling | Cloud Data Tools**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,9 +67,5 @@
 <a href="https://discord.gg/yahfromper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yahfromper" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peruyahool&show_icons=true&locale=en&layout=compact" alt="peruyahool" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peruyahool&show_icons=true&locale=en" alt="peruyahool" /></p>
+---
+⭐ **“Keep analyzing. Keep building. Keep evolving.”**
