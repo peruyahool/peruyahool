@@ -46,11 +46,11 @@
 
 | Year | Project Title | Description |
 |:----:|:--------------|:-------------|
-| **2021** | **COVID Data Dashboard** | Built an interactive dashboard using Power BI and Python to analyze global COVID trends. |
-| **2022** | **Customer Segmentation (ML)** | Applied K-Means clustering for customer grouping based on purchasing patterns. |
-| **2023** | **Big Data Pipeline (Hadoop + Spark)** | Created ETL pipeline for handling large datasets using PySpark. |
-| **2024** | **Healthcare Record Management (Django)** | Developed hospital management system during internship at SIMS. |
-| **2025** | **Business Insight Dashboard** | Designed Power BI dashboards for decision-making using sales and finance data. |
+| **2021** | **Garbage Disposal System—Web Development** | Worked on the idea and UI design part, not the complete project. |
+| **2022** | **Banking System—MySQL Integration** | Worked on the backend part using SQL Bench for data handling and queries. |
+| **2023** | **Music Recommendation Using Facial Expressions—Machine Learning and Artificial Intelligence** | Developed an AI model that recommends music based on real-time facial expressions captured via webcam. Trained emotion classification models on cleaned datasets to accurately map emotions to suitable music genres. |
+| **2024** | **Mental Health Chatbot—Artificial Neural Network** | Trained a chatbot using mental health datasets for accurate intent detection and empathetic replies. Preprocessed text with tokenization, padding, and embedding to fine-tune the ANN model. |
+| **2025** | **Pharmaceutical Sales Analysis** | Analyzed pharmaceutical sales data to identify top-performing drugs, regional demand patterns, and seasonal trends. Used visualization tools to support data-driven marketing and inventory decisions. |
 
 ---
 
